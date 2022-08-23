@@ -1,13 +1,13 @@
 # Codeforces Stat Visualization
 
-<a href="https://github.com/sudiptob2/cf-stats">
-<img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
+<a href="https://github.com/prokawsar/cf-stats">
+<img src="https://raw.githubusercontent.com/prokawsar/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/prokawsar/cf-stats/main/output/light_card.svg" />
 </a>
 <br/>
-<a href="https://github.com/sudiptob2/cf-stats">
-<img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg" />
-<img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" />
+<a href="https://github.com/prokawsar/cf-stats">
+<img src="https://raw.githubusercontent.com/prokawsar/cf-stats/main/output/max_rating.svg" />
+<img src="https://raw.githubusercontent.com/prokawsar/cf-stats/main/output/rating.svg" />
 </a>
 
 # Installation
@@ -16,7 +16,7 @@
 
 1. Star this repository :pray:
 2. Create a copy of this repository by clicking
-   [here](https://github.com/sudiptob2/cf-stats/generate). Note: this is
+   [here](https://github.com/prokawsar/cf-stats/generate). Note: this is
    **not** the same as forking a copy because it copies everything fresh,
    without the huge commit history.
 3. Go to the [Actions Page](../../actions?query=workflow%3A"Generate+Stats+Images") and press "Run Workflow" on the
@@ -29,15 +29,17 @@
    following lines of code into your markdown content. Change the `your-github-username`
    value to your GitHub username.
 
-   ```md
-   ![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-   ![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg)
-   ```
-   ```md
-   ![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)
-   ![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)
-   ```
-6. [Link](https://github.com/sudiptob2/cf-stats) back to the [original](https://github.com/sudiptob2/cf-stats)
+    ```md
+    ![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+    ![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg)
+    ```
+
+    ```md
+    ![](https://raw.githubusercontent.com/prokawsar/cf-stats/main/output/max_rating.svg)
+    ![](https://raw.githubusercontent.com/prokawsar/cf-stats/main/output/rating.svg)
+    ```
+
+6. [Link](https://github.com/prokawsar/cf-stats) back to the [original](https://github.com/prokawsar/cf-stats)
    repository so that others can generate their own
    statistics images.
 
@@ -50,8 +52,9 @@ the [contributing guidelines](docs/CONTRIBUTING.md).
 
 ### Contributors List
 
-- [Sudipto](https://github.com/sudiptob2)
-- [Nazmul](https://github.com/nazmulweb)
+-   [Sudipto](https://github.com/prokawsar)
+-   [Nazmul](https://github.com/nazmulweb)
 
 ### Inspiration
+
 This project is heavily inspired by [github-stats](https://github.com/jstrieb/github-stats) project
