@@ -14,7 +14,7 @@ class CFRequestHandler:
     @classmethod
     def _get_user_info(cls):
         """Gets data from codeforces user.info api."""
-        url = Constant.USER_INFO.format(settings.cf_handle)
+        url = Constant.USER_INFO.format('prokawsar')
         try:
             response = requests.get(url)
         except Exception:
@@ -24,7 +24,7 @@ class CFRequestHandler:
     @classmethod
     def _get_user_sub(cls):
         """Gets data from codeforces user.status api."""
-        url = Constant.USER_STATUS.format(settings.cf_handle)
+        url = Constant.USER_STATUS.format('prokawsar')
         try:
             response = requests.get(url)
         except Exception:
@@ -34,7 +34,7 @@ class CFRequestHandler:
     @classmethod
     def _get_rating_changes(cls):
         """Gets all rating changes from codeforces api."""
-        url = Constant.USER_RATING.format(settings.cf_handle)
+        url = Constant.USER_RATING.format('prokawsar')
         try:
             response = requests.get(url)
         except Exception:

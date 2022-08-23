@@ -5,7 +5,7 @@ from pydantic import BaseSettings
 
 class Settings(BaseSettings):
     """Settings class for defining all variables."""
-    cf_handle: str = 'DmitriyH'
+    cf_handle: str = 'prokawsar'
     base_dir: str = str(Path(__file__).parent.parent)
     acronym_ignore: list = ['and']
 
