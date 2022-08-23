@@ -19,24 +19,25 @@
    [here](https://github.com/prokawsar/cf-stats/generate). Note: this is
    **not** the same as forking a copy because it copies everything fresh,
    without the huge commit history.
-3. Go to the [Actions Page](../../actions?query=workflow%3A"Generate+Stats+Images") and press "Run Workflow" on the
+3. Search and rename to your name and username of codeforces in 'app' folder. (I hard coded my details as I don't know python)   
+4. Go to the [Actions Page](../../actions?query=workflow%3A"Generate+Stats+Images") and press "Run Workflow" on the
    right side of the screen to generate images for the first time.
     - The images will be automatically regenerated every 24 hours, but they can
       be regenerated manually by running the workflow this way.
-4. Take a look at the images that have been created in the
+5. Take a look at the images that have been created in the
    [`output`](output) folder.
-5. To add your statistics to your GitHub Profile README, copy and paste the
+6. To add your statistics to your GitHub Profile README, copy and paste the
    following lines of code into your markdown content. Change the `your-github-username`
    value to your GitHub username.
 
     ```md
-    ![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-    ![](https://raw.githubusercontent.com/your-github-username/cf-stats/main/output/light_card.svg)
+    ![](https://raw.githubusercontent.com/your-github-username/cf-stats/master/output/light_card.svg#gh-dark-mode-only)
+    ![](https://raw.githubusercontent.com/your-github-username/cf-stats/master/output/light_card.svg)
     ```
 
     ```md
-    ![](https://raw.githubusercontent.com/prokawsar/cf-stats/main/output/max_rating.svg)
-    ![](https://raw.githubusercontent.com/prokawsar/cf-stats/main/output/rating.svg)
+    ![](https://raw.githubusercontent.com/prokawsar/cf-stats/master/output/max_rating.svg)
+    ![](https://raw.githubusercontent.com/prokawsar/cf-stats/master/output/rating.svg)
     ```
 
 6. [Link](https://github.com/prokawsar/cf-stats) back to the [original](https://github.com/prokawsar/cf-stats)
@@ -52,7 +53,7 @@ the [contributing guidelines](docs/CONTRIBUTING.md).
 
 ### Contributors List
 
--   [Sudipto](https://github.com/prokawsar)
+-   [Sudipto](https://github.com/sudiptob2)
 -   [Nazmul](https://github.com/nazmulweb)
 
 ### Inspiration
