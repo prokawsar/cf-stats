@@ -1,13 +1,13 @@
 # Codeforces Stat Visualization
 
 <a href="https://github.com/prokawsar/cf-stats">
-<img src="https://raw.githubusercontent.com/prokawsar/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/prokawsar/cf-stats/main/output/light_card.svg" />
+<img src="https://raw.githubusercontent.com/prokawsar/cf-stats/master/output/light_card.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/prokawsar/cf-stats/master/output/light_card.svg" />
 </a>
 <br/>
 <a href="https://github.com/prokawsar/cf-stats">
-<img src="https://raw.githubusercontent.com/prokawsar/cf-stats/main/output/max_rating.svg" />
-<img src="https://raw.githubusercontent.com/prokawsar/cf-stats/main/output/rating.svg" />
+<img src="https://raw.githubusercontent.com/prokawsar/cf-stats/master/output/max_rating.svg" />
+<img src="https://raw.githubusercontent.com/prokawsar/cf-stats/master/output/rating.svg" />
 </a>
 
 # Installation
